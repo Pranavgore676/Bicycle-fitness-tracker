@@ -1,5 +1,7 @@
 # 🚴 Smart Bicycle Fitness Tracker
 
+![Smart Bicycle Fitness Tracker](smart_bicycle_fitness_tracker.jpeg)
+
 A compact, handlebar-mounted cycling performance monitor built on the ESP32. Measures speed, distance, heart rate, and calories burned in real time — displayed on a 16×2 LCD and streamed live to a smartphone over BLE.
 
 ---
